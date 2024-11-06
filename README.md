@@ -70,5 +70,11 @@ To run this project, you'll need the following libraries:
 - `nltk`
 - `wordcloud`
 - `mlflow`
+## Model and Artifacts
 
+All the models and artifacts related to this project are stored in the following Google Drive folder:
 
+[**Google Drive Models and Artifacts**](https://drive.google.com/drive/folders/10NBX9fFJINhzne_bCQRPWSz6cLEUhOfh?usp=drive_link)
+
+You can access and download the necessary files from the link above.
+A
